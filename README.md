@@ -21,3 +21,12 @@ The refinement relations for proving the equivalence are in:
 ### Tools
 
 The verification is conducted via JasperGold, with the refinement written in SVA.
+
+
+### Verilog
+
+The source code for Verilog is in the sub-directory: hls_verilog
+
+### Contact
+
+If you have questions, please contact Yu Zeng yuzeng@princeton.edu
